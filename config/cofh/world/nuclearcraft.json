@@ -47,7 +47,7 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            -1
         ]
     },
     "Lithium": {
